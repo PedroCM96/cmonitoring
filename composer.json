@@ -1,0 +1,15 @@
+{
+    "name": "pedro/computer-monitoring",
+    "description": "An awesome tool for monitoring the status of your computer",
+    "require": {
+        "ramsey/uuid": "^3.8",
+        "symfony/dotenv": "^5.1",
+        "ext-sqlite3": "^7.3",
+        "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ComputerMonitoring\\": ["../computer-monitoring"]
+        }
+    }
+}

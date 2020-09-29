@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46d6258a-85e8-4a14-8d5e-e1ca3784b787" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1i92m2E00pqGT1Fkj4ZVuBEtns3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/computer-monitoring/MonitoringResult/Domain" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/shared/Infrastructure" />
+      <recent name="$PROJECT_DIR$/src/computer-monitoring/MonitoringResult/Domain/MonitoringResult" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46d6258a-85e8-4a14-8d5e-e1ca3784b787" name="Default Changelist" comment="" />
+      <created>1601305642871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601305642871</updated>
+      <workItem from="1601305643915" duration="31332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="307" y="380" width="1297" height="293" key="#SQL_Dialects" timestamp="1601313688811">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="307" y="380" width="1297" height="293" key="#SQL_Dialects/0.0.1920.1052/1920.0.1600.900@0.0.1920.1052" timestamp="1601313688811" />
+    <state x="671" y="332" width="577" height="388" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601306132800">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="671" y="332" width="577" height="388" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1052/1920.0.1600.900@0.0.1920.1052" timestamp="1601306132800" />
+    <state x="764" y="213" width="392" height="627" key="#com.intellij.ide.util.MemberChooser" timestamp="1601403578865">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="764" y="213" width="392" height="627" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1052/1920.0.1600.900@0.0.1920.1052" timestamp="1601403578865" />
+    <state x="664" y="316" width="576" height="422" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601387182508">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="664" y="316" width="576" height="422" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1052/1920.0.1600.900@0.0.1920.1052" timestamp="1601387182508" />
+    <state x="693" y="284" width="526" height="485" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1601404062437">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="693" y="284" width="526" height="485" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1052/1920.0.1600.900@0.0.1920.1052" timestamp="1601404062437" />
+    <state x="738" y="285" width="426" height="485" key="FileChooserDialogImpl" timestamp="1601313688150">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="738" y="285" width="426" height="485" key="FileChooserDialogImpl/0.0.1920.1052/1920.0.1600.900@0.0.1920.1052" timestamp="1601313688150" />
+    <state x="523" y="228" width="1007" height="544" key="NewPhpClassDialog" timestamp="1601404030108">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="523" y="228" width="1007" height="544" key="NewPhpClassDialog/0.0.1920.1052/1920.0.1600.900@0.0.1920.1052" timestamp="1601404030108" />
+    <state x="765" y="452" width="381" height="148" key="NewPhpFileDialog" timestamp="1601401573034">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="765" y="452" width="381" height="148" key="NewPhpFileDialog/0.0.1920.1052/1920.0.1600.900@0.0.1920.1052" timestamp="1601401573034" />
+    <state x="662" y="282" width="595" height="488" key="find.popup" timestamp="1601402109148">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="662" y="282" width="595" height="488" key="find.popup/0.0.1920.1052/1920.0.1600.900@0.0.1920.1052" timestamp="1601402109148" />
+    <state x="801" y="291" width="309" height="470" key="refactoring.ChangeSignatureDialog" timestamp="1601388502351">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="801" y="291" width="309" height="470" key="refactoring.ChangeSignatureDialog/0.0.1920.1052/1920.0.1600.900@0.0.1920.1052" timestamp="1601388502351" />
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1601404268842">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1052/1920.0.1600.900@0.0.1920.1052" timestamp="1601404268842" />
+  </component>
+</project>
